@@ -6,3 +6,4 @@
       adding one more commit
       one last
       from here doing with another feature
+      to check the difference b/w merge using --no-ff and normal merge
