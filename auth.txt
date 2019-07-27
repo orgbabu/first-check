@@ -1,2 +1,10 @@
  hello,
       tryig to check how token works
+      its working
+      working on reset and revert
+      work on monday
+      adding one more commit
+      one last
+      from here doing with another feature
+      to check the difference b/w merge using --no-ff and normal merge
+      so lets the how it works
